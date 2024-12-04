@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/artcenter-nabi/static/css/main.a79c07f9.css",
+    "main.js": "/artcenter-nabi/static/js/main.03129a93.js",
+    "static/js/453.5e560239.chunk.js": "/artcenter-nabi/static/js/453.5e560239.chunk.js",
+    "static/media/plus_nabi_img2.png": "/artcenter-nabi/static/media/plus_nabi_img2.4736edb6f044e27a8594.png",
+    "index.html": "/artcenter-nabi/index.html",
+    "main.a79c07f9.css.map": "/artcenter-nabi/static/css/main.a79c07f9.css.map",
+    "main.03129a93.js.map": "/artcenter-nabi/static/js/main.03129a93.js.map",
+    "453.5e560239.chunk.js.map": "/artcenter-nabi/static/js/453.5e560239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a79c07f9.css",
+    "static/js/main.03129a93.js"
+  ]
+}
