@@ -7,7 +7,7 @@
 https://harin-kw0w.github.io/artcenter-nabi/
 
 ## 🛠Skills
-React, CSS, Tailwindcss, JavaScript, Flexbox, SwiperJS, GSAP 등 
+React, CSS, JavaScript, Flexbox, SwiperJS, GSAP 등 
 
 ## 📣주요특징
 * React 활용, Nesting 및 Mixin 기능 적용
