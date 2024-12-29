@@ -14,6 +14,6 @@ React, Redux, Axios, CSS, JavaScript, Flexbox, SwiperJS, GSAP 등
 * Redux를 활용하여 상태를 효율적으로 관리
 * 정적 JSON 데이터 로딩 및 상품 페이지 랜더링
 * SwiperJS를 활용하여 메인 슬라이더 정적 및 동적 구현 
-* JavaScript로 메뉴 인터랙션 및 드롭다운 메뉴 구현
-* Hover effect를 활용한 인터랙티브한 웹 디자인 구현 
+* 첫 페이지에서 한 주간 인기 있는 갤러리 TOP 10 데이터를 랜덤으로 표시
+* 유저가 선택한 장르에 따라 데이터를 받아오는 '더보기' 페이지 구현
 * Video API 
