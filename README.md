@@ -6,11 +6,11 @@
 ## 📑View
 https://harin-kw0w.github.io/artcenter-nabi/
 
-## 🛠Skills
-React, CSS, JavaScript, Flexbox, SwiperJS, GSAP 등 
+## 🛠기술 스택
+React, Redux, Axios, CSS, JavaScript, Flexbox, SwiperJS, GSAP 등 
 
 ## 📣주요특징
-* React 활용, Nesting 및 Mixin 기능 적용
+* Redux를 활용하여 상태를 효율적으로 관리
 * 정적 JSON 데이터 로딩 및 상품 페이지 랜더링
 * SwiperJS를 활용하여 메인 슬라이더 정적 및 동적 구현 
 * JavaScript로 메뉴 인터랙션 및 드롭다운 메뉴 구현
